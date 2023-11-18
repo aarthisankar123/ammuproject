@@ -23,5 +23,10 @@ public class Sad {
 		System.out.println("test 107");
 	}
 
+	@Test
+	private void test4() {
+		System.out.println("Priyanka");
+	}
+
 
 }
